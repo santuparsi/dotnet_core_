@@ -1,0 +1,16 @@
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnTypeConversion\bin\Debug\net5.0\HandsOnTypeConversion.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnTypeConversion\bin\Debug\net5.0\HandsOnTypeConversion.deps.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnTypeConversion\bin\Debug\net5.0\HandsOnTypeConversion.runtimeconfig.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnTypeConversion\bin\Debug\net5.0\HandsOnTypeConversion.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnTypeConversion\bin\Debug\net5.0\HandsOnTypeConversion.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnTypeConversion\bin\Debug\net5.0\ref\HandsOnTypeConversion.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnTypeConversion\bin\Debug\net5.0\HandsOnTypeConversion.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net5.0\HandsOnTypeConversion.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net5.0\HandsOnTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net5.0\HandsOnTypeConversion.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net5.0\HandsOnTypeConversion.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net5.0\HandsOnTypeConversion.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net5.0\HandsOnTypeConversion.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net5.0\ref\HandsOnTypeConversion.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net5.0\HandsOnTypeConversion.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net5.0\HandsOnTypeConversion.genruntimeconfig.cache

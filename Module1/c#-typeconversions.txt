@@ -1,0 +1,11 @@
+Type Conversion in C#
+======================
+Type Conversion is a process of converting one data type value into another data type.
+int i=100;
+int k=i;
+1.direct conversion
+2.implicit conversion
+2.1.casting
+3.conversion using parse()
+4.using Convert class
+5.boxing and unboxing

@@ -1,0 +1,37 @@
+C# Keywords
+==========
+int,void,class,return,double,abstract,public,private etc.
+C# variable
+==========
+<data_type> varible_name=value;
+# variable names are starts with alphabet and _
+#variable name should include alphabets,numbers and _
+#variable name should not be the keyword.
+#variale names are unique
+ex: int number=100;
+string designation="Programmer"
+C# Datatypes
+==========
+1.value types(stack memory)
+	a.Primitive types
+		byte(1)
+		short(2)
+		int(4)
+		long(8)
+		float(4)
+		double(8)
+		decimal(16)
+		char(2)
+		bool(1)
+	b.Nullable types
+	c.Structures
+	d.Enums
+2.reference types(heap memory)
+
+string
+object
+class
+inteface
+array
+value datatype are fiex in their size
+reference datatypes are dynamic in size

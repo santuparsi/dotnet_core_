@@ -1,0 +1,21 @@
+C# Operators
+============
+1.Airthmatic Operators
++,-,*,/,%,++,--
+2.Relational Operators
+==,>=,<=,>,<,!=
+int a=10;
+int b=20;
+a==b;
+a>b;
+a<=b;
+3.Assignment Operators
+=,+=,-=,*=,/=
+4.Logical Operators
+&&
+||
+!
+?:(ternory operator)
+. to access the class members
+[] array index operator
+()-casting

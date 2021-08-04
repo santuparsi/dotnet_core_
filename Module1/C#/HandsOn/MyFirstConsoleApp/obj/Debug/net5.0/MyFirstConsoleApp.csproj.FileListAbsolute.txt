@@ -1,0 +1,16 @@
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\MyFirstConsoleApp\bin\Debug\net5.0\MyFirstConsoleApp.exe
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\MyFirstConsoleApp\bin\Debug\net5.0\MyFirstConsoleApp.deps.json
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\MyFirstConsoleApp\bin\Debug\net5.0\MyFirstConsoleApp.runtimeconfig.json
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\MyFirstConsoleApp\bin\Debug\net5.0\MyFirstConsoleApp.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\MyFirstConsoleApp\bin\Debug\net5.0\MyFirstConsoleApp.dll
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\MyFirstConsoleApp\bin\Debug\net5.0\ref\MyFirstConsoleApp.dll
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\MyFirstConsoleApp\bin\Debug\net5.0\MyFirstConsoleApp.pdb
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.dll
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\MyFirstConsoleApp\obj\Debug\net5.0\ref\MyFirstConsoleApp.dll
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.pdb
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.genruntimeconfig.cache

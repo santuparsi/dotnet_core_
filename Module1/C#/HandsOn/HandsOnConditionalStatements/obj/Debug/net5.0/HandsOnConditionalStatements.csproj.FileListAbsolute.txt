@@ -1,0 +1,16 @@
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConditionalStatements\bin\Debug\net5.0\HandsOnConditionalStatements.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConditionalStatements\bin\Debug\net5.0\HandsOnConditionalStatements.deps.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConditionalStatements\bin\Debug\net5.0\HandsOnConditionalStatements.runtimeconfig.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConditionalStatements\bin\Debug\net5.0\HandsOnConditionalStatements.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConditionalStatements\bin\Debug\net5.0\HandsOnConditionalStatements.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConditionalStatements\bin\Debug\net5.0\ref\HandsOnConditionalStatements.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConditionalStatements\bin\Debug\net5.0\HandsOnConditionalStatements.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConditionalStatements\obj\Debug\net5.0\HandsOnConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConditionalStatements\obj\Debug\net5.0\HandsOnConditionalStatements.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConditionalStatements\obj\Debug\net5.0\HandsOnConditionalStatements.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConditionalStatements\obj\Debug\net5.0\HandsOnConditionalStatements.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConditionalStatements\obj\Debug\net5.0\HandsOnConditionalStatements.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConditionalStatements\obj\Debug\net5.0\ref\HandsOnConditionalStatements.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConditionalStatements\obj\Debug\net5.0\HandsOnConditionalStatements.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConditionalStatements\obj\Debug\net5.0\HandsOnConditionalStatements.genruntimeconfig.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConditionalStatements\obj\Debug\net5.0\HandsOnConditionalStatements.csproj.AssemblyReference.cache

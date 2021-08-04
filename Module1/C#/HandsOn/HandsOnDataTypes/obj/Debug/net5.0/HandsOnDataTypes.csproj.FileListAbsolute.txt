@@ -1,0 +1,16 @@
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\HandsOnDataTypes\bin\Debug\net5.0\HandsOnDataTypes.exe
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\HandsOnDataTypes\bin\Debug\net5.0\HandsOnDataTypes.deps.json
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\HandsOnDataTypes\bin\Debug\net5.0\HandsOnDataTypes.runtimeconfig.json
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\HandsOnDataTypes\bin\Debug\net5.0\HandsOnDataTypes.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\HandsOnDataTypes\bin\Debug\net5.0\HandsOnDataTypes.dll
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\HandsOnDataTypes\bin\Debug\net5.0\ref\HandsOnDataTypes.dll
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\HandsOnDataTypes\bin\Debug\net5.0\HandsOnDataTypes.pdb
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\HandsOnDataTypes\obj\Debug\net5.0\HandsOnDataTypes.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\HandsOnDataTypes\obj\Debug\net5.0\HandsOnDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\HandsOnDataTypes\obj\Debug\net5.0\HandsOnDataTypes.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\HandsOnDataTypes\obj\Debug\net5.0\HandsOnDataTypes.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\HandsOnDataTypes\obj\Debug\net5.0\HandsOnDataTypes.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\HandsOnDataTypes\obj\Debug\net5.0\HandsOnDataTypes.dll
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\HandsOnDataTypes\obj\Debug\net5.0\ref\HandsOnDataTypes.dll
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\HandsOnDataTypes\obj\Debug\net5.0\HandsOnDataTypes.pdb
+D:\Batch6(02.08.2021)\Module1\C#\HandsOn\HandsOnDataTypes\obj\Debug\net5.0\HandsOnDataTypes.genruntimeconfig.cache

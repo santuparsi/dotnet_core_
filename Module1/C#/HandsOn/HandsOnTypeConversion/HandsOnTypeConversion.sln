@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsOnTypeConversion", "HandsOnTypeConversion.csproj", "{EF7BC774-F5C5-446B-9EAC-4792134BF61D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF7BC774-F5C5-446B-9EAC-4792134BF61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7BC774-F5C5-446B-9EAC-4792134BF61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7BC774-F5C5-446B-9EAC-4792134BF61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7BC774-F5C5-446B-9EAC-4792134BF61D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEE95193-D355-414E-894F-DDBD3BF9D282}
+	EndGlobalSection
+EndGlobal

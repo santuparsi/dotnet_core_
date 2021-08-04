@@ -1,0 +1,6 @@
+Array types in c#
+================
+1.Single Dimensional
+2.Multi Dimensional(elements are arranged in rows and column format)
+int [,]array_name=new int[row_size,col_size]
+3.Jagged Array
