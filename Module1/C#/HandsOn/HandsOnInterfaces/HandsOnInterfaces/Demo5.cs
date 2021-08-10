@@ -14,7 +14,7 @@ namespace HandsOnInterfaces
     {
         void Discount();
     }
-    class ECommerce:IMobiel,ILaptop
+    class ECommerce : IMobiel, ILaptop
     {
         //explicit implement
         void IMobiel.Discount()
@@ -24,6 +24,7 @@ namespace HandsOnInterfaces
         void ILaptop.Discount()
         {
         }
+    }
     class Demo5
     {
     }

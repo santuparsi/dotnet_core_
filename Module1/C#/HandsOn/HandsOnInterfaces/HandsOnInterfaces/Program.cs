@@ -6,6 +6,20 @@ namespace HandsOnInterfaces
     {
         void Area(); //abstract method
     }
+    struct Square : IShape
+    {
+        int l;
+
+        public Square(int l)
+        {
+            this.l = l;
+        }
+
+        public void Area()
+        {
+            Console.WriteLine("Area of Square:{0}", 4 * l);
+        }
+    }
     class Circle : IShape
     {
         double r;
@@ -42,6 +56,8 @@ namespace HandsOnInterfaces
             circle.Area();
             IShape rectangle = new Rectangle(12, 34);
             rectangle.Area();
+            IShape square = new Square(12);
+            square.Area();
             Circle circle1 = new Circle(34.5);
             circle.Area();
         }
