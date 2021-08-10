@@ -1,0 +1,16 @@
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnClassTypes\HandsOnClassTypes\bin\Debug\net5.0\HandsOnClassTypes.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnClassTypes\HandsOnClassTypes\bin\Debug\net5.0\HandsOnClassTypes.deps.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnClassTypes\HandsOnClassTypes\bin\Debug\net5.0\HandsOnClassTypes.runtimeconfig.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnClassTypes\HandsOnClassTypes\bin\Debug\net5.0\HandsOnClassTypes.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnClassTypes\HandsOnClassTypes\bin\Debug\net5.0\HandsOnClassTypes.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnClassTypes\HandsOnClassTypes\bin\Debug\net5.0\ref\HandsOnClassTypes.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnClassTypes\HandsOnClassTypes\bin\Debug\net5.0\HandsOnClassTypes.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnClassTypes\HandsOnClassTypes\obj\Debug\net5.0\HandsOnClassTypes.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnClassTypes\HandsOnClassTypes\obj\Debug\net5.0\HandsOnClassTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnClassTypes\HandsOnClassTypes\obj\Debug\net5.0\HandsOnClassTypes.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnClassTypes\HandsOnClassTypes\obj\Debug\net5.0\HandsOnClassTypes.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnClassTypes\HandsOnClassTypes\obj\Debug\net5.0\HandsOnClassTypes.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnClassTypes\HandsOnClassTypes\obj\Debug\net5.0\HandsOnClassTypes.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnClassTypes\HandsOnClassTypes\obj\Debug\net5.0\ref\HandsOnClassTypes.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnClassTypes\HandsOnClassTypes\obj\Debug\net5.0\HandsOnClassTypes.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnClassTypes\HandsOnClassTypes\obj\Debug\net5.0\HandsOnClassTypes.genruntimeconfig.cache

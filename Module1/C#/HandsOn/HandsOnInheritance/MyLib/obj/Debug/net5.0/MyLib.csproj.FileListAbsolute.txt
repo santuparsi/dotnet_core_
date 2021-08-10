@@ -1,0 +1,12 @@
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInheritance\MyLib\bin\Debug\net5.0\MyLib.deps.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInheritance\MyLib\bin\Debug\net5.0\MyLib.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInheritance\MyLib\bin\Debug\net5.0\ref\MyLib.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInheritance\MyLib\bin\Debug\net5.0\MyLib.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInheritance\MyLib\obj\Debug\net5.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInheritance\MyLib\obj\Debug\net5.0\MyLib.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInheritance\MyLib\obj\Debug\net5.0\MyLib.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInheritance\MyLib\obj\Debug\net5.0\MyLib.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInheritance\MyLib\obj\Debug\net5.0\MyLib.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInheritance\MyLib\obj\Debug\net5.0\ref\MyLib.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInheritance\MyLib\obj\Debug\net5.0\MyLib.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInheritance\MyLib\obj\Debug\net5.0\MyLib.csproj.AssemblyReference.cache

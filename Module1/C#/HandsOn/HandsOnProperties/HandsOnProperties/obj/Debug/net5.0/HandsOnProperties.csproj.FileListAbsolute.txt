@@ -1,0 +1,16 @@
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnProperties\HandsOnProperties\bin\Debug\net5.0\HandsOnProperties.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnProperties\HandsOnProperties\bin\Debug\net5.0\HandsOnProperties.deps.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnProperties\HandsOnProperties\bin\Debug\net5.0\HandsOnProperties.runtimeconfig.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnProperties\HandsOnProperties\bin\Debug\net5.0\HandsOnProperties.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnProperties\HandsOnProperties\bin\Debug\net5.0\HandsOnProperties.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnProperties\HandsOnProperties\bin\Debug\net5.0\ref\HandsOnProperties.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnProperties\HandsOnProperties\bin\Debug\net5.0\HandsOnProperties.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnProperties\HandsOnProperties\obj\Debug\net5.0\HandsOnProperties.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnProperties\HandsOnProperties\obj\Debug\net5.0\HandsOnProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnProperties\HandsOnProperties\obj\Debug\net5.0\HandsOnProperties.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnProperties\HandsOnProperties\obj\Debug\net5.0\HandsOnProperties.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnProperties\HandsOnProperties\obj\Debug\net5.0\HandsOnProperties.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnProperties\HandsOnProperties\obj\Debug\net5.0\HandsOnProperties.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnProperties\HandsOnProperties\obj\Debug\net5.0\ref\HandsOnProperties.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnProperties\HandsOnProperties\obj\Debug\net5.0\HandsOnProperties.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnProperties\HandsOnProperties\obj\Debug\net5.0\HandsOnProperties.genruntimeconfig.cache

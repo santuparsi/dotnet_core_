@@ -1,0 +1,16 @@
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMethodOverriding\HandsOnMethodOverriding\bin\Debug\net5.0\HandsOnMethodOverriding.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMethodOverriding\HandsOnMethodOverriding\bin\Debug\net5.0\HandsOnMethodOverriding.deps.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMethodOverriding\HandsOnMethodOverriding\bin\Debug\net5.0\HandsOnMethodOverriding.runtimeconfig.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMethodOverriding\HandsOnMethodOverriding\bin\Debug\net5.0\HandsOnMethodOverriding.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMethodOverriding\HandsOnMethodOverriding\bin\Debug\net5.0\HandsOnMethodOverriding.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMethodOverriding\HandsOnMethodOverriding\bin\Debug\net5.0\ref\HandsOnMethodOverriding.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMethodOverriding\HandsOnMethodOverriding\bin\Debug\net5.0\HandsOnMethodOverriding.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMethodOverriding\HandsOnMethodOverriding\obj\Debug\net5.0\HandsOnMethodOverriding.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMethodOverriding\HandsOnMethodOverriding\obj\Debug\net5.0\HandsOnMethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMethodOverriding\HandsOnMethodOverriding\obj\Debug\net5.0\HandsOnMethodOverriding.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMethodOverriding\HandsOnMethodOverriding\obj\Debug\net5.0\HandsOnMethodOverriding.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMethodOverriding\HandsOnMethodOverriding\obj\Debug\net5.0\HandsOnMethodOverriding.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMethodOverriding\HandsOnMethodOverriding\obj\Debug\net5.0\HandsOnMethodOverriding.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMethodOverriding\HandsOnMethodOverriding\obj\Debug\net5.0\ref\HandsOnMethodOverriding.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMethodOverriding\HandsOnMethodOverriding\obj\Debug\net5.0\HandsOnMethodOverriding.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMethodOverriding\HandsOnMethodOverriding\obj\Debug\net5.0\HandsOnMethodOverriding.genruntimeconfig.cache

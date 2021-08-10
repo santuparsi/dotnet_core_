@@ -1,0 +1,12 @@
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnLibraries\MyLibrary\bin\Debug\net5.0\MyLibrary.deps.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnLibraries\MyLibrary\bin\Debug\net5.0\MyLibrary.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnLibraries\MyLibrary\bin\Debug\net5.0\ref\MyLibrary.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnLibraries\MyLibrary\bin\Debug\net5.0\MyLibrary.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnLibraries\MyLibrary\obj\Debug\net5.0\MyLibrary.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnLibraries\MyLibrary\obj\Debug\net5.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnLibraries\MyLibrary\obj\Debug\net5.0\MyLibrary.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnLibraries\MyLibrary\obj\Debug\net5.0\MyLibrary.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnLibraries\MyLibrary\obj\Debug\net5.0\MyLibrary.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnLibraries\MyLibrary\obj\Debug\net5.0\MyLibrary.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnLibraries\MyLibrary\obj\Debug\net5.0\ref\MyLibrary.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnLibraries\MyLibrary\obj\Debug\net5.0\MyLibrary.pdb

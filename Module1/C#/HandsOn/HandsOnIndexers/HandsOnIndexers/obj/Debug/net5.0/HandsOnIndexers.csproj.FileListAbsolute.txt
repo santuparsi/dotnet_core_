@@ -1,0 +1,16 @@
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnIndexers\HandsOnIndexers\bin\Debug\net5.0\HandsOnIndexers.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnIndexers\HandsOnIndexers\bin\Debug\net5.0\HandsOnIndexers.deps.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnIndexers\HandsOnIndexers\bin\Debug\net5.0\HandsOnIndexers.runtimeconfig.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnIndexers\HandsOnIndexers\bin\Debug\net5.0\HandsOnIndexers.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnIndexers\HandsOnIndexers\bin\Debug\net5.0\HandsOnIndexers.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnIndexers\HandsOnIndexers\bin\Debug\net5.0\ref\HandsOnIndexers.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnIndexers\HandsOnIndexers\bin\Debug\net5.0\HandsOnIndexers.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnIndexers\HandsOnIndexers\obj\Debug\net5.0\HandsOnIndexers.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnIndexers\HandsOnIndexers\obj\Debug\net5.0\HandsOnIndexers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnIndexers\HandsOnIndexers\obj\Debug\net5.0\HandsOnIndexers.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnIndexers\HandsOnIndexers\obj\Debug\net5.0\HandsOnIndexers.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnIndexers\HandsOnIndexers\obj\Debug\net5.0\HandsOnIndexers.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnIndexers\HandsOnIndexers\obj\Debug\net5.0\HandsOnIndexers.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnIndexers\HandsOnIndexers\obj\Debug\net5.0\ref\HandsOnIndexers.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnIndexers\HandsOnIndexers\obj\Debug\net5.0\HandsOnIndexers.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnIndexers\HandsOnIndexers\obj\Debug\net5.0\HandsOnIndexers.genruntimeconfig.cache

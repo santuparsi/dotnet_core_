@@ -1,0 +1,16 @@
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\bin\Debug\net5.0\HandsOnConstructors.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\bin\Debug\net5.0\HandsOnConstructors.deps.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\bin\Debug\net5.0\HandsOnConstructors.runtimeconfig.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\bin\Debug\net5.0\HandsOnConstructors.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\bin\Debug\net5.0\HandsOnConstructors.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\bin\Debug\net5.0\ref\HandsOnConstructors.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\bin\Debug\net5.0\HandsOnConstructors.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\obj\Debug\net5.0\HandsOnConstructors.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\obj\Debug\net5.0\HandsOnConstructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\obj\Debug\net5.0\HandsOnConstructors.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\obj\Debug\net5.0\HandsOnConstructors.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\obj\Debug\net5.0\HandsOnConstructors.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\obj\Debug\net5.0\HandsOnConstructors.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\obj\Debug\net5.0\ref\HandsOnConstructors.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\obj\Debug\net5.0\HandsOnConstructors.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnConstructors\HandsOnConstructors\obj\Debug\net5.0\HandsOnConstructors.genruntimeconfig.cache
