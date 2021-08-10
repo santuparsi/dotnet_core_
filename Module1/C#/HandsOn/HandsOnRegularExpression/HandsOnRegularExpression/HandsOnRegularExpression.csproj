@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>HandsOnRegularExpression.Demo15</StartupObject>
+    <StartupObject>HandsOnRegularExpression.Demo</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

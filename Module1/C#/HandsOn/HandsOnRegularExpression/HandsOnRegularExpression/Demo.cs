@@ -20,13 +20,16 @@ namespace HandsOnRegularExpression
         }
         static void Main()
         {
-            if (ValidateMobile("+91 9567890000"))
+            if (ValidateMobile("+91 956890000"))
             {
-                ErrorInfo.ErrorMessage="Valid Mobile No";
+                //ErrorInfo.ErrorMessage="Valid Mobile No";
+                Console.WriteLine("Valid Mobile No");
             }
             else
-                ErrorInfo.ErrorMessage="InValid Mobile No";
-            Console.WriteLine(ErrorInfo.ErrorMessage);
+             
+            Console.WriteLine("Invalid Mobile No");
+            Console.ReadKey();
         }
+       
     }
 }

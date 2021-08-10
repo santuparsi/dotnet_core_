@@ -33,3 +33,10 @@ D:\Training(4.19.2021)\Modules\Module-1\C#\HandsOn\HandsOnRegularExpression\Hand
 D:\Training(4.19.2021)\Modules\Module-1\C#\HandsOn\HandsOnRegularExpression\HandsOnRegularExpression\obj\Debug\HandsOnRegularExpression.csproj.CoreCompileInputs.cache
 D:\Training(4.19.2021)\Modules\Module-1\C#\HandsOn\HandsOnRegularExpression\HandsOnRegularExpression\obj\Debug\HandsOnRegularExpression.exe
 D:\Training(4.19.2021)\Modules\Module-1\C#\HandsOn\HandsOnRegularExpression\HandsOnRegularExpression\obj\Debug\HandsOnRegularExpression.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnRegularExpression\HandsOnRegularExpression\bin\Debug\HandsOnRegularExpression.exe.config
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnRegularExpression\HandsOnRegularExpression\bin\Debug\HandsOnRegularExpression.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnRegularExpression\HandsOnRegularExpression\bin\Debug\HandsOnRegularExpression.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnRegularExpression\HandsOnRegularExpression\obj\Debug\HandsOnRegularExpression.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnRegularExpression\HandsOnRegularExpression\obj\Debug\HandsOnRegularExpression.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnRegularExpression\HandsOnRegularExpression\obj\Debug\HandsOnRegularExpression.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnRegularExpression\HandsOnRegularExpression\obj\Debug\HandsOnRegularExpression.pdb
