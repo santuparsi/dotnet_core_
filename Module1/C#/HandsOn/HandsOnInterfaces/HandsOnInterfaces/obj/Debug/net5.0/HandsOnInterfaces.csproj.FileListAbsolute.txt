@@ -1,0 +1,16 @@
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInterfaces\HandsOnInterfaces\bin\Debug\net5.0\HandsOnInterfaces.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInterfaces\HandsOnInterfaces\bin\Debug\net5.0\HandsOnInterfaces.deps.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInterfaces\HandsOnInterfaces\bin\Debug\net5.0\HandsOnInterfaces.runtimeconfig.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInterfaces\HandsOnInterfaces\bin\Debug\net5.0\HandsOnInterfaces.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInterfaces\HandsOnInterfaces\bin\Debug\net5.0\HandsOnInterfaces.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInterfaces\HandsOnInterfaces\bin\Debug\net5.0\ref\HandsOnInterfaces.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInterfaces\HandsOnInterfaces\bin\Debug\net5.0\HandsOnInterfaces.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInterfaces\HandsOnInterfaces\obj\Debug\net5.0\HandsOnInterfaces.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInterfaces\HandsOnInterfaces\obj\Debug\net5.0\HandsOnInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInterfaces\HandsOnInterfaces\obj\Debug\net5.0\HandsOnInterfaces.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInterfaces\HandsOnInterfaces\obj\Debug\net5.0\HandsOnInterfaces.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInterfaces\HandsOnInterfaces\obj\Debug\net5.0\HandsOnInterfaces.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInterfaces\HandsOnInterfaces\obj\Debug\net5.0\HandsOnInterfaces.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInterfaces\HandsOnInterfaces\obj\Debug\net5.0\ref\HandsOnInterfaces.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInterfaces\HandsOnInterfaces\obj\Debug\net5.0\HandsOnInterfaces.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnInterfaces\HandsOnInterfaces\obj\Debug\net5.0\HandsOnInterfaces.genruntimeconfig.cache
