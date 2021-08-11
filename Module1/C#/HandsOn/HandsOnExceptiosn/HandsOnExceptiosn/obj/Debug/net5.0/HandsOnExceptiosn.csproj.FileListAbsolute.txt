@@ -1,0 +1,16 @@
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnExceptiosn\HandsOnExceptiosn\bin\Debug\net5.0\HandsOnExceptiosn.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnExceptiosn\HandsOnExceptiosn\bin\Debug\net5.0\HandsOnExceptiosn.deps.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnExceptiosn\HandsOnExceptiosn\bin\Debug\net5.0\HandsOnExceptiosn.runtimeconfig.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnExceptiosn\HandsOnExceptiosn\bin\Debug\net5.0\HandsOnExceptiosn.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnExceptiosn\HandsOnExceptiosn\bin\Debug\net5.0\HandsOnExceptiosn.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnExceptiosn\HandsOnExceptiosn\bin\Debug\net5.0\ref\HandsOnExceptiosn.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnExceptiosn\HandsOnExceptiosn\bin\Debug\net5.0\HandsOnExceptiosn.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnExceptiosn\HandsOnExceptiosn\obj\Debug\net5.0\HandsOnExceptiosn.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnExceptiosn\HandsOnExceptiosn\obj\Debug\net5.0\HandsOnExceptiosn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnExceptiosn\HandsOnExceptiosn\obj\Debug\net5.0\HandsOnExceptiosn.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnExceptiosn\HandsOnExceptiosn\obj\Debug\net5.0\HandsOnExceptiosn.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnExceptiosn\HandsOnExceptiosn\obj\Debug\net5.0\HandsOnExceptiosn.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnExceptiosn\HandsOnExceptiosn\obj\Debug\net5.0\HandsOnExceptiosn.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnExceptiosn\HandsOnExceptiosn\obj\Debug\net5.0\ref\HandsOnExceptiosn.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnExceptiosn\HandsOnExceptiosn\obj\Debug\net5.0\HandsOnExceptiosn.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnExceptiosn\HandsOnExceptiosn\obj\Debug\net5.0\HandsOnExceptiosn.genruntimeconfig.cache

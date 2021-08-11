@@ -13,14 +13,12 @@ namespace HandsOnRegularExpression
         {
             string pattern = @"^[+]91 [6789]\d{9}$";
             Regex regex = new Regex(pattern);
-            if (regex.IsMatch(mobileno))
-                return true;
-            else
-                return false;
+            return regex.IsMatch(mobileno);
+              
         }
         static void Main()
         {
-            if (ValidateMobile("+91 956890000"))
+            if (ValidateMobile("+91 9568906000"))
             {
                 //ErrorInfo.ErrorMessage="Valid Mobile No";
                 Console.WriteLine("Valid Mobile No");

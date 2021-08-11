@@ -1,0 +1,16 @@
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEnums\HandsOnEnums\bin\Debug\net5.0\HandsOnEnums.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEnums\HandsOnEnums\bin\Debug\net5.0\HandsOnEnums.deps.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEnums\HandsOnEnums\bin\Debug\net5.0\HandsOnEnums.runtimeconfig.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEnums\HandsOnEnums\bin\Debug\net5.0\HandsOnEnums.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEnums\HandsOnEnums\bin\Debug\net5.0\HandsOnEnums.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEnums\HandsOnEnums\bin\Debug\net5.0\ref\HandsOnEnums.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEnums\HandsOnEnums\bin\Debug\net5.0\HandsOnEnums.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEnums\HandsOnEnums\obj\Debug\net5.0\HandsOnEnums.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEnums\HandsOnEnums\obj\Debug\net5.0\HandsOnEnums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEnums\HandsOnEnums\obj\Debug\net5.0\HandsOnEnums.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEnums\HandsOnEnums\obj\Debug\net5.0\HandsOnEnums.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEnums\HandsOnEnums\obj\Debug\net5.0\HandsOnEnums.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEnums\HandsOnEnums\obj\Debug\net5.0\HandsOnEnums.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEnums\HandsOnEnums\obj\Debug\net5.0\ref\HandsOnEnums.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEnums\HandsOnEnums\obj\Debug\net5.0\HandsOnEnums.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEnums\HandsOnEnums\obj\Debug\net5.0\HandsOnEnums.genruntimeconfig.cache
