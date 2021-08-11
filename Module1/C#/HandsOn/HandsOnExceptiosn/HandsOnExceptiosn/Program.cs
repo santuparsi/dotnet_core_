@@ -6,25 +6,35 @@ namespace HandsOnExceptiosn
     {
         public static void GetTickets(int count)
         {
-            if (count <= 3)
+            try
             {
-                Console.WriteLine("Booking is Successfull..");
+                if (count <= 3)
+                {
+                    Console.WriteLine("Booking is Successfull..");
+                }
+                else
+                    //throw new TicketBookingExcetion("Sorry!!" +
+                    //    " can not book more than 3 tickets");
+                    throw new TicketBookingExcetion();
             }
-            else
-                throw new TicketBookingExcetion("Sorry!! can not book more than 3 tickets");
+            catch (Exception ex)
+            {
+
+                Console.WriteLine(ex.Message);
+            }
         }
     }
     class Program
     {
         static void Main(string[] args)
         {
-           try
+            try
             {
                 Console.WriteLine("Enter no of tickets to book");
                 int count = int.Parse(Console.ReadLine());
                 BookTicket.GetTickets(count);
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }

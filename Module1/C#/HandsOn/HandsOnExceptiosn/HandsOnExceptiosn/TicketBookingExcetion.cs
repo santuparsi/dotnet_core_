@@ -12,5 +12,9 @@ namespace HandsOnExceptiosn
         {
             
         }
+        public TicketBookingExcetion() : base("Sorry!! you can not book more than 3 ticket")
+        {
+
+        }
     }
 }
