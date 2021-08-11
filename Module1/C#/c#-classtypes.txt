@@ -1,0 +1,17 @@
+Type of Classes in C#
+======================
+1.Concrete class(default)
+2.Static class
+3.Sealed class
+4.Abstract class
+class is declared with abstract keyword.
+It is an incomple class.
+It is a combination of abstract and not abstract methods(normal method)
+abstract method is a method which does not have defination or body
+abstract method is declared using abstract keyword
+public abstract void M();
+Abstract classes are inherited and not instantiated
+when abstract class is inherited by derived class then derived class should implement all abstract methods of abstract class
+while implement abstract methods in derived class use override keyword.
+5.partial class
+6.generic class

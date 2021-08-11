@@ -1,0 +1,40 @@
+Inheritance in C#
+=================
+1.Inheritance is one of the OOP feature
+2.Inheritance allows using one class functionaliteis in another class with out object creation
+3.Inheritance provide code-reusabilty
+Syntax:
+class A(base class)
+{
+//functionaliteis
+}
+class B(derived class):A
+{
+//A functionaliteis we can you here directly
+}
+Note:In Inheritance Derived class(Class B) object can access all the public members of base class(Class A)
+
+Types of Inheritance
+====================
+1.Single Inheritance
+2.Multilevel Inheritance
+3.Hirarichal Inheritance
+4.Multiple Inheritance(not supported in c#)
+5.Hybrid Inheritance(not supported by c#)
+
+Polymorphism in C#
+===================
+It is the concept of defining multiple functions with the same name.
+1.static Polymorphism(Compile time Polymorphism)
+method overloading
+2.dynamic Polymorphism(Run time Polymorphism)
+In dynamic Polymorphism the intance of the class is decided at runtime.
+method overriding
+
+Method Overriding
+================
+Method Overriding is the concept of defining same function in base class and derived class
+In Method Overriding the base class function is declaraed with virtual keyword.
+and while implementing that funtion in derived class use the override keyword.
+static methods can not be override.
+Method overloading allows to extend or rewrite base functionality in derived class.
