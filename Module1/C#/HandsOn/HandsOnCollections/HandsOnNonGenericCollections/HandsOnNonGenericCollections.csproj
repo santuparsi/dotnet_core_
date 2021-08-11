@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>HandsOnNonGenericCollections.Demo1</StartupObject>
+    <StartupObject>HandsOnNonGenericCollections.StackDemo</StartupObject>
   </PropertyGroup>
 
 </Project>
