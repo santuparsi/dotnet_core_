@@ -1,0 +1,16 @@
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnFileHandling\bin\Debug\net5.0\HandsOnFileHandling.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnFileHandling\bin\Debug\net5.0\HandsOnFileHandling.deps.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnFileHandling\bin\Debug\net5.0\HandsOnFileHandling.runtimeconfig.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnFileHandling\bin\Debug\net5.0\HandsOnFileHandling.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnFileHandling\bin\Debug\net5.0\HandsOnFileHandling.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnFileHandling\bin\Debug\net5.0\ref\HandsOnFileHandling.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnFileHandling\bin\Debug\net5.0\HandsOnFileHandling.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnFileHandling\obj\Debug\net5.0\HandsOnFileHandling.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnFileHandling\obj\Debug\net5.0\HandsOnFileHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnFileHandling\obj\Debug\net5.0\HandsOnFileHandling.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnFileHandling\obj\Debug\net5.0\HandsOnFileHandling.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnFileHandling\obj\Debug\net5.0\HandsOnFileHandling.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnFileHandling\obj\Debug\net5.0\HandsOnFileHandling.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnFileHandling\obj\Debug\net5.0\ref\HandsOnFileHandling.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnFileHandling\obj\Debug\net5.0\HandsOnFileHandling.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnFileHandling\obj\Debug\net5.0\HandsOnFileHandling.genruntimeconfig.cache
