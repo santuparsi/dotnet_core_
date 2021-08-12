@@ -1,0 +1,16 @@
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCollections\HandsOnGenericCollections\bin\Debug\net5.0\HandsOnGenericCollections.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCollections\HandsOnGenericCollections\bin\Debug\net5.0\HandsOnGenericCollections.deps.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCollections\HandsOnGenericCollections\bin\Debug\net5.0\HandsOnGenericCollections.runtimeconfig.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCollections\HandsOnGenericCollections\bin\Debug\net5.0\HandsOnGenericCollections.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCollections\HandsOnGenericCollections\bin\Debug\net5.0\HandsOnGenericCollections.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCollections\HandsOnGenericCollections\bin\Debug\net5.0\ref\HandsOnGenericCollections.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCollections\HandsOnGenericCollections\bin\Debug\net5.0\HandsOnGenericCollections.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCollections\HandsOnGenericCollections\obj\Debug\net5.0\HandsOnGenericCollections.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCollections\HandsOnGenericCollections\obj\Debug\net5.0\HandsOnGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCollections\HandsOnGenericCollections\obj\Debug\net5.0\HandsOnGenericCollections.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCollections\HandsOnGenericCollections\obj\Debug\net5.0\HandsOnGenericCollections.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCollections\HandsOnGenericCollections\obj\Debug\net5.0\HandsOnGenericCollections.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCollections\HandsOnGenericCollections\obj\Debug\net5.0\HandsOnGenericCollections.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCollections\HandsOnGenericCollections\obj\Debug\net5.0\ref\HandsOnGenericCollections.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCollections\HandsOnGenericCollections\obj\Debug\net5.0\HandsOnGenericCollections.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCollections\HandsOnGenericCollections\obj\Debug\net5.0\HandsOnGenericCollections.genruntimeconfig.cache
