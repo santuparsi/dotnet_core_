@@ -1,0 +1,40 @@
+-Reflection is the feature in .Net, which enables us to get information about object,assemblies its metadata at runtime. That information contains data of the class. 
+Also it can get the names of the methods that are inside the class and constructors of that object.
+-By using relection we can instantiated the class at runtime
+-for reflection .net comes with a library system.reflection
+-every reflection application should declare with system.reflection namespace
+-Reflection is also used for:
+
+1) To dynamically invoke methods (using System.Type.InvokeMember)
+2) To dynamically create types at runtime (using System.Reflection.Emit.TypeBuilder).
+
+-The Type class is the foundation of Reflection. It serves as runtime information about an assembly,a module or a type.
+-system.Type comes with some properties and methods which provide information of objact that include
+-the type of the class isabstract or is class and it also get methods name and consturctors name using in that praticlular class
+
+methods:
+
+Getconstructors()-returns the constructors using in the class
+Getmethods()-retruns methods using in the class
+GetProperties()-returns propertis using in the class
+
+properties:
+
+isclass-it returns the given object is class type or not
+isabstract -it returns whether the class is abstract or not
+isarray-it returns whether the object type is array or not
+
+Note:typeof() method use to get the type of class or object
+
+class in system.reflection:
+--------------------------
+
+MethodInfo Class is used to obtain information such as the name, return type, parameters, access modifiers (such as public or private), and implementation details (such as ab,stract or virtual) of a any method inside the class, module, assembly. GetMethods or GetMethod method of a Type are used to on the to obtain the information.
+
+FieldInfo Class, as the name suggest this class is used to get the information such as the name, access modifiers (such as public or private) and implementation details (such as static) of a field. Even to get or set field values of a class.
+
+EventInfo Class is used to fetch the information about name, event-handler data type, custom attributes, declaring type, and reflected type of an event. This class is also used to add or remove event handlers.
+
+PropertyInfo Class is used to fetch the information about the name, data type, declaring type, reflected type, and read-only or writable status of a property. Also we can get or set property values using this class.
+
+ParameterInfo Class is used to fetch the information about parameter's name, data type, whether a parameter is an input or output parameter, and the position of the parameter in a method signature. We can GetParameters method in this class that returns an array of ParameterInfo objects representing the parameters of a method, in order.

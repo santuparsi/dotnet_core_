@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>HandsOnFileHandling.Test_ReadWrite</StartupObject>
+    <StartupObject>HandsOnFileHandling.Demo3</StartupObject>
   </PropertyGroup>
 
 </Project>

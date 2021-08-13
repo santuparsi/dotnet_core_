@@ -1,0 +1,14 @@
+D:\Training(4.19.2021)\Modules\Module-1\C#\HandsOn\HandsOnSerialization\HandsOnSerialization\bin\Debug\HandsOnSerialization.exe.config
+D:\Training(4.19.2021)\Modules\Module-1\C#\HandsOn\HandsOnSerialization\HandsOnSerialization\bin\Debug\HandsOnSerialization.exe
+D:\Training(4.19.2021)\Modules\Module-1\C#\HandsOn\HandsOnSerialization\HandsOnSerialization\bin\Debug\HandsOnSerialization.pdb
+D:\Training(4.19.2021)\Modules\Module-1\C#\HandsOn\HandsOnSerialization\HandsOnSerialization\obj\Debug\HandsOnSerialization.csprojAssemblyReference.cache
+D:\Training(4.19.2021)\Modules\Module-1\C#\HandsOn\HandsOnSerialization\HandsOnSerialization\obj\Debug\HandsOnSerialization.csproj.CoreCompileInputs.cache
+D:\Training(4.19.2021)\Modules\Module-1\C#\HandsOn\HandsOnSerialization\HandsOnSerialization\obj\Debug\HandsOnSerialization.exe
+D:\Training(4.19.2021)\Modules\Module-1\C#\HandsOn\HandsOnSerialization\HandsOnSerialization\obj\Debug\HandsOnSerialization.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnSerialization\HandsOnSerialization\bin\Debug\HandsOnSerialization.exe.config
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnSerialization\HandsOnSerialization\bin\Debug\HandsOnSerialization.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnSerialization\HandsOnSerialization\bin\Debug\HandsOnSerialization.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnSerialization\HandsOnSerialization\obj\Debug\HandsOnSerialization.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnSerialization\HandsOnSerialization\obj\Debug\HandsOnSerialization.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnSerialization\HandsOnSerialization\obj\Debug\HandsOnSerialization.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnSerialization\HandsOnSerialization\obj\Debug\HandsOnSerialization.pdb
