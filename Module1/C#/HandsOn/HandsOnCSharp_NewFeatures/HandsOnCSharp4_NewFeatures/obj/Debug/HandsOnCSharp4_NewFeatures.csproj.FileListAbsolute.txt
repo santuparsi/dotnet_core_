@@ -1,0 +1,14 @@
+D:\Dotnet\Material\DOTNET\C#\HandsOnCSharp_NewFeatures\HandsOnCSharp4_NewFeatures\bin\Debug\HandsOnCSharp4_NewFeatures.exe.config
+D:\Dotnet\Material\DOTNET\C#\HandsOnCSharp_NewFeatures\HandsOnCSharp4_NewFeatures\bin\Debug\HandsOnCSharp4_NewFeatures.exe
+D:\Dotnet\Material\DOTNET\C#\HandsOnCSharp_NewFeatures\HandsOnCSharp4_NewFeatures\bin\Debug\HandsOnCSharp4_NewFeatures.pdb
+D:\Dotnet\Material\DOTNET\C#\HandsOnCSharp_NewFeatures\HandsOnCSharp4_NewFeatures\obj\Debug\HandsOnCSharp4_NewFeatures.csprojAssemblyReference.cache
+D:\Dotnet\Material\DOTNET\C#\HandsOnCSharp_NewFeatures\HandsOnCSharp4_NewFeatures\obj\Debug\HandsOnCSharp4_NewFeatures.csproj.CoreCompileInputs.cache
+D:\Dotnet\Material\DOTNET\C#\HandsOnCSharp_NewFeatures\HandsOnCSharp4_NewFeatures\obj\Debug\HandsOnCSharp4_NewFeatures.exe
+D:\Dotnet\Material\DOTNET\C#\HandsOnCSharp_NewFeatures\HandsOnCSharp4_NewFeatures\obj\Debug\HandsOnCSharp4_NewFeatures.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCSharp_NewFeatures\HandsOnCSharp4_NewFeatures\bin\Debug\HandsOnCSharp4_NewFeatures.exe.config
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCSharp_NewFeatures\HandsOnCSharp4_NewFeatures\bin\Debug\HandsOnCSharp4_NewFeatures.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCSharp_NewFeatures\HandsOnCSharp4_NewFeatures\bin\Debug\HandsOnCSharp4_NewFeatures.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCSharp_NewFeatures\HandsOnCSharp4_NewFeatures\obj\Debug\HandsOnCSharp4_NewFeatures.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCSharp_NewFeatures\HandsOnCSharp4_NewFeatures\obj\Debug\HandsOnCSharp4_NewFeatures.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCSharp_NewFeatures\HandsOnCSharp4_NewFeatures\obj\Debug\HandsOnCSharp4_NewFeatures.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnCSharp_NewFeatures\HandsOnCSharp4_NewFeatures\obj\Debug\HandsOnCSharp4_NewFeatures.pdb
