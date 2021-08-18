@@ -1,0 +1,15 @@
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEvents\bin\Debug\net5.0\HandsOnEvents.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEvents\bin\Debug\net5.0\HandsOnEvents.deps.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEvents\bin\Debug\net5.0\HandsOnEvents.runtimeconfig.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEvents\bin\Debug\net5.0\HandsOnEvents.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEvents\bin\Debug\net5.0\HandsOnEvents.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEvents\bin\Debug\net5.0\ref\HandsOnEvents.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEvents\bin\Debug\net5.0\HandsOnEvents.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEvents\obj\Debug\net5.0\HandsOnEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEvents\obj\Debug\net5.0\HandsOnEvents.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEvents\obj\Debug\net5.0\HandsOnEvents.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEvents\obj\Debug\net5.0\HandsOnEvents.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEvents\obj\Debug\net5.0\HandsOnEvents.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEvents\obj\Debug\net5.0\ref\HandsOnEvents.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEvents\obj\Debug\net5.0\HandsOnEvents.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnEvents\obj\Debug\net5.0\HandsOnEvents.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMultiThreading\bin\Debug\net5.0\HandsOnMultiThreading.exe
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMultiThreading\bin\Debug\net5.0\HandsOnMultiThreading.deps.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMultiThreading\bin\Debug\net5.0\HandsOnMultiThreading.runtimeconfig.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMultiThreading\bin\Debug\net5.0\HandsOnMultiThreading.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMultiThreading\bin\Debug\net5.0\HandsOnMultiThreading.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMultiThreading\bin\Debug\net5.0\ref\HandsOnMultiThreading.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMultiThreading\bin\Debug\net5.0\HandsOnMultiThreading.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMultiThreading\obj\Debug\net5.0\HandsOnMultiThreading.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMultiThreading\obj\Debug\net5.0\HandsOnMultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMultiThreading\obj\Debug\net5.0\HandsOnMultiThreading.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMultiThreading\obj\Debug\net5.0\HandsOnMultiThreading.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMultiThreading\obj\Debug\net5.0\HandsOnMultiThreading.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMultiThreading\obj\Debug\net5.0\HandsOnMultiThreading.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMultiThreading\obj\Debug\net5.0\ref\HandsOnMultiThreading.dll
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMultiThreading\obj\Debug\net5.0\HandsOnMultiThreading.pdb
+D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnMultiThreading\obj\Debug\net5.0\HandsOnMultiThreading.genruntimeconfig.cache
