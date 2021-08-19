@@ -1,4 +1,4 @@
--Reflection is the feature in .Net, which enables us to get information about object,assemblies its metadata at runtime. That information contains data of the class. 
+-Reflection is the feature in .Net, which enables us to get information about any object,assemblies its metadata at runtime. That information contains data of the class. 
 Also it can get the names of the methods that are inside the class and constructors of that object.
 -By using relection we can instantiated the class at runtime
 -for reflection .net comes with a library system.reflection
