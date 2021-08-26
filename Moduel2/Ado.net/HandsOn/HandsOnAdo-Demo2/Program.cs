@@ -10,7 +10,7 @@ namespace HandsOnAdo_Demo2
         {
             try
             {
-                ProductRepository repository = new ProductRepository();
+                ProductRepositoryWithSP repository = new ProductRepositoryWithSP();
                 do
                 {
                     Console.WriteLine("1.AddProduct");
@@ -27,7 +27,7 @@ namespace HandsOnAdo_Demo2
                             {
                                 Product product = new Product();
                                 //getting values from user
-                                product.Pid = new Random().Next(1000, 9999); //genereated random value between 1000 and 9999
+                                //product.Pid = new Random().Next(1000, 9999); //genereated random value between 1000 and 9999
                                 Console.WriteLine("Enter Product Name");
                                 product.Pname = Console.ReadLine();
                                 Console.WriteLine("Enter Product Price");
