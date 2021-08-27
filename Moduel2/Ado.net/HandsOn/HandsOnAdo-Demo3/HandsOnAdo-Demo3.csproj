@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>HandsOnAdo_Demo3</RootNamespace>
+    <StartupObject>HandsOnAdo_Demo3.Test</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
