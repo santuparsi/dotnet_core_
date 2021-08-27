@@ -109,6 +109,7 @@ namespace HandsOnAdo_Demo2.Repositoires
                 };
                 connection.Open(); //open connnection
                 SqlDataReader dr = command.ExecuteReader();
+              
                 if (dr.HasRows)
                 {
                     products = new List<Product>();
