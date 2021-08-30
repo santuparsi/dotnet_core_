@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = HandsOnReflection
-build_property.ProjectDir = D:\Batch6(02.08.2021)\Modules\Module1\C#\HandsOn\HandsOnReflection\
+build_property.ProjectDir = D:\Batch6(02.08.2021)\dotnet_core_\Module1\C#\HandsOn\HandsOnReflection\

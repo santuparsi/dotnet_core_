@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Batch6(02.08.2021)\\Modules\\Module1\\C#\\HandsOn\\HandsOnReflection\\HandsOnReflection.csproj": {}
+    "D:\\Batch6(02.08.2021)\\dotnet_core_\\Module1\\C#\\HandsOn\\HandsOnReflection\\HandsOnReflection.csproj": {}
   },
   "projects": {
-    "D:\\Batch6(02.08.2021)\\Modules\\Module1\\C#\\HandsOn\\HandsOnReflection\\HandsOnReflection.csproj": {
+    "D:\\Batch6(02.08.2021)\\dotnet_core_\\Module1\\C#\\HandsOn\\HandsOnReflection\\HandsOnReflection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Batch6(02.08.2021)\\Modules\\Module1\\C#\\HandsOn\\HandsOnReflection\\HandsOnReflection.csproj",
+        "projectUniqueName": "D:\\Batch6(02.08.2021)\\dotnet_core_\\Module1\\C#\\HandsOn\\HandsOnReflection\\HandsOnReflection.csproj",
         "projectName": "HandsOnReflection",
-        "projectPath": "D:\\Batch6(02.08.2021)\\Modules\\Module1\\C#\\HandsOn\\HandsOnReflection\\HandsOnReflection.csproj",
+        "projectPath": "D:\\Batch6(02.08.2021)\\dotnet_core_\\Module1\\C#\\HandsOn\\HandsOnReflection\\HandsOnReflection.csproj",
         "packagesPath": "C:\\Users\\SANTHOSH\\.nuget\\packages\\",
-        "outputPath": "D:\\Batch6(02.08.2021)\\Modules\\Module1\\C#\\HandsOn\\HandsOnReflection\\obj\\",
+        "outputPath": "D:\\Batch6(02.08.2021)\\dotnet_core_\\Module1\\C#\\HandsOn\\HandsOnReflection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
