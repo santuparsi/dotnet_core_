@@ -3,7 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>HandsOnAdo_Demo2</RootNamespace>
+    <RootNamespace>HandsOnAdo_Demo2.Demo1</RootNamespace>
+    <StartupObject>HandsOnAdo_Demo2.Demo1</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
