@@ -3,7 +3,7 @@
 	<br />
 	<table align="center" style="width: 50%">
 		<tr>
-			<td>Name</td>
+			<td>Name *</td>
 			<td>
 				<asp:TextBox ID="txtName" runat="server"></asp:TextBox>
 			</td>
@@ -17,13 +17,13 @@
 			</td>
 		</tr>
 		<tr>
-			<td>Email</td>
+			<td>Email *</td>
 			<td>
 				<asp:TextBox ID="txtEmail" runat="server"></asp:TextBox>
 			</td>
 		</tr>
 		<tr>
-			<td>Mobile</td>
+			<td>Mobile *</td>
 			<td>
 				<asp:TextBox ID="txtMobile" runat="server"></asp:TextBox>
 			</td>
@@ -46,7 +46,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td>Password</td>
+			<td>Password *</td>
 			<td>
 				<asp:TextBox ID="txtPwd" runat="server" TextMode="Password"></asp:TextBox>
 			</td>
@@ -66,7 +66,7 @@
 		<tr>
 			<td>&nbsp;</td>
 			<td>
-				<asp:Button ID="btnRegister" runat="server" Text="Register" />
+				<asp:Button ID="btnRegister" runat="server" Text="Register" OnClick="SignUp" />
 			</td>
 		</tr>
 	</table>

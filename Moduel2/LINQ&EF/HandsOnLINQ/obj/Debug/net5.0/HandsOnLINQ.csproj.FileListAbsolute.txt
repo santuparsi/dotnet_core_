@@ -1,0 +1,16 @@
+D:\Batch6(02.08.2021)\Modules\Moduel2\LINQ&EF\HandsOnLINQ\bin\Debug\net5.0\HandsOnLINQ.exe
+D:\Batch6(02.08.2021)\Modules\Moduel2\LINQ&EF\HandsOnLINQ\bin\Debug\net5.0\HandsOnLINQ.deps.json
+D:\Batch6(02.08.2021)\Modules\Moduel2\LINQ&EF\HandsOnLINQ\bin\Debug\net5.0\HandsOnLINQ.runtimeconfig.json
+D:\Batch6(02.08.2021)\Modules\Moduel2\LINQ&EF\HandsOnLINQ\bin\Debug\net5.0\HandsOnLINQ.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\Modules\Moduel2\LINQ&EF\HandsOnLINQ\bin\Debug\net5.0\HandsOnLINQ.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\LINQ&EF\HandsOnLINQ\bin\Debug\net5.0\ref\HandsOnLINQ.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\LINQ&EF\HandsOnLINQ\bin\Debug\net5.0\HandsOnLINQ.pdb
+D:\Batch6(02.08.2021)\Modules\Moduel2\LINQ&EF\HandsOnLINQ\obj\Debug\net5.0\HandsOnLINQ.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\Modules\Moduel2\LINQ&EF\HandsOnLINQ\obj\Debug\net5.0\HandsOnLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\Modules\Moduel2\LINQ&EF\HandsOnLINQ\obj\Debug\net5.0\HandsOnLINQ.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\Modules\Moduel2\LINQ&EF\HandsOnLINQ\obj\Debug\net5.0\HandsOnLINQ.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\Modules\Moduel2\LINQ&EF\HandsOnLINQ\obj\Debug\net5.0\HandsOnLINQ.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\Modules\Moduel2\LINQ&EF\HandsOnLINQ\obj\Debug\net5.0\HandsOnLINQ.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\LINQ&EF\HandsOnLINQ\obj\Debug\net5.0\ref\HandsOnLINQ.dll
+D:\Batch6(02.08.2021)\Modules\Moduel2\LINQ&EF\HandsOnLINQ\obj\Debug\net5.0\HandsOnLINQ.pdb
+D:\Batch6(02.08.2021)\Modules\Moduel2\LINQ&EF\HandsOnLINQ\obj\Debug\net5.0\HandsOnLINQ.genruntimeconfig.cache

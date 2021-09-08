@@ -13,5 +13,10 @@ namespace HandsOnControls
         {
 
         }
+
+        protected void SignUp(object sender, EventArgs e)
+        {
+            //add user details to user table in sql server
+        }
     }
 }
