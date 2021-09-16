@@ -1,0 +1,60 @@
+﻿@{
+	Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta name="viewport" content="width=device-width" />
+	<title>Create</title>
+</head>
+<body>
+	@using (Html.BeginForm("Register", "User"))
+	{
+		<table border="1">
+			<tr>
+				<td>Name</td>
+				<td>@Html.TextBox("Name")</td>
+			</tr>
+			<tr>
+				<td>Gender</td>
+				<td>
+					Male @Html.RadioButton("Gender", false)
+					Female @Html.RadioButton("Gender", false)
+				</td>
+			</tr>
+			<tr>
+				<td>DOB</td>
+				<td>@Html.TextBox("DOB", null, new { type = "date" })</td>
+			</tr>
+			<tr>
+				<td>Email</td>
+				<td>@Html.TextBox("Email")</td>
+			</tr>
+			<tr>
+				<td>MobileNo</td>
+				<td>@Html.TextBox("Mobile")</td>
+			</tr>
+			<tr>
+				<td>Country</td>
+				<td>@Html.DropDownList("Country", new SelectList(new string[] { "Indai", "US", "UK", "Japan" }))</td>
+			</tr>
+			<tr>
+				<td>Password</td>
+				<td>@Html.Password("Pwd")</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					@Html.CheckBox("flag") Accpet all terms and conditions
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<input type="submit" value="Register" />
+				</td>
+			</tr>
+		</table>
+	}
+</body>
+</html>

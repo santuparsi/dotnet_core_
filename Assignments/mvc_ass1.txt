@@ -5,4 +5,4 @@ Create a MVC Application with following features.
 	GetCustomer()
 	AddCustomer()
 3.Create CustomerController and define the action methods to invoke repo functions.
-4.Create views and bind thhe models as the the requirement.
+4.Create views and bind the models as per the requirement.

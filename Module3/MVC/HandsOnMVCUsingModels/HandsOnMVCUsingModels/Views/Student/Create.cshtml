@@ -24,21 +24,24 @@
             <table class="table" style="width:auto">
                 <tr>
                     <td>ID</td>
-                    <td>
-                        <input type="number" name="Sid" />
-                    </td>
+					<td>
+						@*<input type="number" name="Sid" />*@
+						<input type="number" asp-for="Sid" />
+					</td>
                 </tr>
                 <tr>
                     <td>Name</td>
-                    <td>
-                        <input type="text" name="Sname" />
-                    </td>
+					<td>
+						@*<input type="text" name="Sname" />*@
+						<input type="text" asp-for="Sname"/>
+					</td>
                 </tr>
                 <tr>
                     <td>Age</td>
-                    <td>
-                        <input type="number" name="Age" min="4" max="16" />
-                    </td>
+					<td>
+						@*<input type="number" name="Age" min="4" max="16" />*@
+						<input type="number" asp-for="Age" min="4" max="16" />
+					</td>
                 </tr>
                 <tr>
                     <td colspan="2">
