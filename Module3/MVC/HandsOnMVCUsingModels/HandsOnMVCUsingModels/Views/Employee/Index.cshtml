@@ -1,0 +1,21 @@
+﻿@model HandsOnMVCUsingModels.ViewModels.EmployeeProject
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h1>Employee Project Details</h1>
+    <pre>
+    Employee Name:@Model.Employee.EmployeeName
+    Designation:@Model.Employee.Designation
+    ProjectName:@Model.Project.ProjectName
+</pre>
+</body>
+</html>

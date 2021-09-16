@@ -23,6 +23,7 @@ namespace HandsOnMVCUsingModels.Models
         }
         public void AddStudent(Student student)
         {
+            
             students.Add(student);
         }
     }

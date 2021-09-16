@@ -117,3 +117,5 @@ D:\Batch6(02.08.2021)\dotnet_core_\Module3\MVC\HandsOnMVCUsingModels\HandsOnMVCU
 D:\Batch6(02.08.2021)\dotnet_core_\Module3\MVC\HandsOnMVCUsingModels\HandsOnMVCUsingModels\obj\Debug\net5.0\Razor\Views\Student\Details.cshtml.g.cs
 D:\Batch6(02.08.2021)\dotnet_core_\Module3\MVC\HandsOnMVCUsingModels\HandsOnMVCUsingModels\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
 D:\Batch6(02.08.2021)\dotnet_core_\Module3\MVC\HandsOnMVCUsingModels\HandsOnMVCUsingModels\obj\Debug\net5.0\Razor\Views\Student\Create.cshtml.g.cs
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\MVC\HandsOnMVCUsingModels\HandsOnMVCUsingModels\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\MVC\HandsOnMVCUsingModels\HandsOnMVCUsingModels\obj\Debug\net5.0\Razor\Views\Employee\Index1.cshtml.g.cs
