@@ -1,0 +1,49 @@
+﻿@model List<Student>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta name="viewport" content="width=device-width" />
+	<title>Index</title>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<br /><br />
+	
+		  <div class="container">
+		  	<a asp-action="Create">New Student</a><br />
+		  	<table border="1" class="table table-bordered">
+		  		<tr>
+		  			<th>ID</th>
+		  			<th>Name</th>
+		  			<th>Age</th>
+		  			<th></th>
+		  		</tr>
+		  		@foreach (var item in Model)
+			  {
+		  		<tr>
+		  			<td>@item.Sid</td>
+		  	<td>@item.Sname</td>
+		  <td>@item.Age</td>
+		  <td>
+		  	@*<a href="Details/@item.Sid">Details</a>*@
+		  <a asp-action="Details"
+		 asp-route-id="@item.Sid">Details</a>
+		  </td>
+		  </tr>
+	  }
+		  </table>
+		  </div>
+</body>
+</html>

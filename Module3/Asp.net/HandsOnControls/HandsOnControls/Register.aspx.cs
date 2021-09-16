@@ -16,7 +16,14 @@ namespace HandsOnControls
 
         protected void SignUp(object sender, EventArgs e)
         {
-            //add user details to user table in sql server
+            //add user details to user table in sql server sing Ado.net
+            //Create user table with required colomns and add
+            //new user to details to user table using Ado.net
+            LoadGrid();
+        }
+        private void LoadGrid()
+        {
+
         }
     }
 }

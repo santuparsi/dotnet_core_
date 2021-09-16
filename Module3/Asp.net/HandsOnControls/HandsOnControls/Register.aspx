@@ -6,6 +6,7 @@
 			<td>Name *</td>
 			<td>
 				<asp:TextBox ID="txtName" runat="server"></asp:TextBox>
+				<asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="txtName" ErrorMessage="Pls Enter Name"></asp:RequiredFieldValidator>
 			</td>
 		</tr>
 		<tr>
@@ -29,9 +30,9 @@
 			</td>
 		</tr>
 		<tr>
-			<td>DOB</td>
+			<td>Age</td>
 			<td>
-				<asp:TextBox ID="txtDOB" runat="server" TextMode="Date"></asp:TextBox>
+				<asp:TextBox ID="txtage" runat="server" TextMode="Date"></asp:TextBox>
 			</td>
 		</tr>
 		<tr>
@@ -67,6 +68,17 @@
 			<td>&nbsp;</td>
 			<td>
 				<asp:Button ID="btnRegister" runat="server" Text="Register" OnClick="SignUp" />
+			&nbsp;
+				<asp:Button ID="btnRegister0" runat="server" Text=" Delete" OnClick="SignUp" />
+			&nbsp;<asp:Button ID="btnRegister1" runat="server" Text="Update" OnClick="SignUp" />
+			&nbsp;<asp:Button ID="btnRegister2" runat="server" Text="Searech" OnClick="SignUp" />
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+				<asp:GridView ID="GridView1" runat="server">
+				</asp:GridView>
 			</td>
 		</tr>
 	</table>
