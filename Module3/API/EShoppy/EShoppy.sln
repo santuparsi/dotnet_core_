@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EShoppy.API", "EShoppy.API\EShoppy.API.csproj", "{DDBBD984-B1DD-4895-BEAA-1527A3E68107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDBBD984-B1DD-4895-BEAA-1527A3E68107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDBBD984-B1DD-4895-BEAA-1527A3E68107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDBBD984-B1DD-4895-BEAA-1527A3E68107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDBBD984-B1DD-4895-BEAA-1527A3E68107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D2CF999-A457-4893-A830-B4D817EF876B}
+	EndGlobalSection
+EndGlobal
