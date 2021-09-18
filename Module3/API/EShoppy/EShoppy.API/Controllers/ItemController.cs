@@ -12,10 +12,10 @@ namespace EShoppy.API.Controllers
     [ApiController]
     public class ItemController : ControllerBase
     {
-        ItemRepository repository = null;
-        public ItemController()
+        IItemRepository repository = null;
+        public ItemController(IItemRepository repository)
         {
-            this.repository = new ItemRepository();
+            this.repository = repository;
         }
         [HttpGet]
         [Route("GetAllItems")]

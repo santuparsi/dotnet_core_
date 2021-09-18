@@ -8,9 +8,9 @@ namespace EShoppy.API.Repositories
     public class ItemRepository : IItemRepository
     {
         EShoppyContext db = null;
-        public ItemRepository()
+        public ItemRepository(EShoppyContext db)
         {
-            db = new EShoppyContext();
+            this.db = db;
         }
         public void AddItem(Item item)
         {

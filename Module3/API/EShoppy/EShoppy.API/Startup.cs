@@ -10,7 +10,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+using Microsoft.EntityFrameworkCore;
+using EShoppy.API.Entities;
+using EShoppy.API.Repositories;
 namespace EShoppy.API
 {
     public class Startup
@@ -25,7 +27,9 @@ namespace EShoppy.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            //set connection string
+            services.AddDbContext<EShoppyContext>(options => options.UseSqlServer(Configuration.GetConnectionString("EshoppyDBConnection")));
+            services.AddTransient<IItemRepository, ItemRepository>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

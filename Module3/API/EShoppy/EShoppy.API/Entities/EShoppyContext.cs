@@ -7,11 +7,15 @@ namespace EShoppy.API.Entities
 {
     public class EShoppyContext:DbContext
     {
+        public EShoppyContext(DbContextOptions<EShoppyContext> options):base(options)
+        {
+
+        }
         //Entity sets
         public DbSet<Item> Items { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source=SANTU\MSSQLSERVER2019;Initial Catalog=EshoppyDB;Integrated Security=True");
+           // optionsBuilder.UseSqlServer(@"Data Source=SANTU\MSSQLSERVER2019;Initial Catalog=EshoppyDB;Integrated Security=True");
         }
     }
 }

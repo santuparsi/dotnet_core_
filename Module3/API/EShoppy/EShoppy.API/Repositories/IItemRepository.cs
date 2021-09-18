@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using EShoppy.API.Entities;
 namespace EShoppy.API.Repositories
 {
-    interface IItemRepository
+    public interface IItemRepository
     {
         List<Item> GetItems();
         Item GetItem(int id);
