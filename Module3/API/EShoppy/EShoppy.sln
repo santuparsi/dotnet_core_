@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EShoppy.API", "EShoppy.API\EShoppy.API.csproj", "{DDBBD984-B1DD-4895-BEAA-1527A3E68107}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EShoppy.API", "EShoppy.API\EShoppy.API.csproj", "{DDBBD984-B1DD-4895-BEAA-1527A3E68107}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eshoppy.UI", "Eshoppy.UI\Eshoppy.UI.csproj", "{BFF72261-1FD9-48B7-9CF8-E61D6BDB047A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DDBBD984-B1DD-4895-BEAA-1527A3E68107}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDBBD984-B1DD-4895-BEAA-1527A3E68107}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDBBD984-B1DD-4895-BEAA-1527A3E68107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF72261-1FD9-48B7-9CF8-E61D6BDB047A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF72261-1FD9-48B7-9CF8-E61D6BDB047A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF72261-1FD9-48B7-9CF8-E61D6BDB047A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF72261-1FD9-48B7-9CF8-E61D6BDB047A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

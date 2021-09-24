@@ -12,7 +12,7 @@ namespace EShoppy.API.Controllers
     [ApiController]
     public class ItemController : ControllerBase
     {
-        IItemRepository repository = null;
+        private readonly IItemRepository repository = null;
         public ItemController(IItemRepository repository)
         {
             this.repository = repository;
