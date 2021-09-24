@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace AirLineReservation.API.Repositories
 {
-    public class CustomerReposiotry
+    public class CustomerReposiotry:ICustomerRepository
     {
     }
 }
