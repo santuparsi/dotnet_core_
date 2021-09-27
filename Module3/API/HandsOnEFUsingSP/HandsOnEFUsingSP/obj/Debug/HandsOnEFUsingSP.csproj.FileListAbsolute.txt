@@ -1,0 +1,10 @@
+D:\CTS\Batch1\EF\HandsOnEFUsingSP\HandsOnEFUsingSP\bin\Debug\HandsOnEFUsingSP.exe.config
+D:\CTS\Batch1\EF\HandsOnEFUsingSP\HandsOnEFUsingSP\bin\Debug\HandsOnEFUsingSP.exe
+D:\CTS\Batch1\EF\HandsOnEFUsingSP\HandsOnEFUsingSP\bin\Debug\HandsOnEFUsingSP.pdb
+D:\CTS\Batch1\EF\HandsOnEFUsingSP\HandsOnEFUsingSP\bin\Debug\EntityFramework.dll
+D:\CTS\Batch1\EF\HandsOnEFUsingSP\HandsOnEFUsingSP\bin\Debug\EntityFramework.SqlServer.dll
+D:\CTS\Batch1\EF\HandsOnEFUsingSP\HandsOnEFUsingSP\bin\Debug\EntityFramework.xml
+D:\CTS\Batch1\EF\HandsOnEFUsingSP\HandsOnEFUsingSP\bin\Debug\EntityFramework.SqlServer.xml
+D:\CTS\Batch1\EF\HandsOnEFUsingSP\HandsOnEFUsingSP\obj\Debug\HandsOnEFUsingSP.csprojResolveAssemblyReference.cache
+D:\CTS\Batch1\EF\HandsOnEFUsingSP\HandsOnEFUsingSP\obj\Debug\HandsOnEFUsingSP.exe
+D:\CTS\Batch1\EF\HandsOnEFUsingSP\HandsOnEFUsingSP\obj\Debug\HandsOnEFUsingSP.pdb

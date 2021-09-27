@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CTSDBModelStoreContainer" CdmEntityContainer="CTSDBEntities">
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="CTSDBModel.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="Eid" ColumnName="Eid" />
+          <ScalarProperty Name="Ename" ColumnName="Ename" />
+          <ScalarProperty Name="Desig" ColumnName="Desig" />
+          <ScalarProperty Name="JoinDate" ColumnName="JoinDate" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="Did" ColumnName="Did" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="CTSDBModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="Pid" ColumnName="Pid" />
+          <ScalarProperty Name="Pname" ColumnName="Pname" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Stock" ColumnName="Stock" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="AddProduct" FunctionName="CTSDBModel.Store.AddProduct" />
+    <FunctionImportMapping FunctionImportName="DeleteProduct" FunctionName="CTSDBModel.Store.DeleteProduct" />
+    <FunctionImportMapping FunctionImportName="GetProductById" FunctionName="CTSDBModel.Store.GetProductById" />
+    <FunctionImportMapping FunctionImportName="UpdateProduct" FunctionName="CTSDBModel.Store.UpdateProduct" />
+  </EntityContainerMapping>
+</Mapping>

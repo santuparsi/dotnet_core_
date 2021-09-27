@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CTSDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="CTSDBEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="GetEmpInfo" ReturnType="Collection(CTSDBModel.GetEmpInfo_Result)" />
+  </EntityContainer>
+  <ComplexType Name="GetEmpInfo_Result">
+    <Property Type="Int32" Name="Eid" Nullable="false" />
+    <Property Type="String" Name="Ename" Nullable="false" MaxLength="30" />
+    <Property Type="String" Name="Desig" Nullable="true" MaxLength="30" />
+    <Property Type="Int32" Name="Salary" Nullable="true" />
+    <Property Type="String" Name="Did" Nullable="true" MaxLength="5" />
+    <Property Type="String" Name="Dname" Nullable="false" MaxLength="30" />
+    <Property Type="DateTime" Name="JoinDate" Nullable="true" />
+  </ComplexType>
+</Schema>

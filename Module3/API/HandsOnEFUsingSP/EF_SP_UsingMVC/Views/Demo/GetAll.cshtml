@@ -1,0 +1,69 @@
+﻿@model IEnumerable<EF_SP_UsingMVC.Models.GetEmpInfo_Result>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Eid)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ename)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Desig)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Salary)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Did)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Dname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.JoinDate)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Eid)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ename)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Desig)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Salary)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Did)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Dname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.JoinDate)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>
