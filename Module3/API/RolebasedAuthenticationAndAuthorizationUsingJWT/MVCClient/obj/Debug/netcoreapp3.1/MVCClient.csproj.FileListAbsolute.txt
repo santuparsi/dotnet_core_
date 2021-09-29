@@ -1,0 +1,340 @@
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.exe
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.deps.json
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.runtimeconfig.json
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.runtimeconfig.dev.json
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.pdb
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.Views.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.Views.pdb
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.csprojAssemblyReference.cache
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.AssemblyInfoInputs.cache
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.AssemblyInfo.cs
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.csproj.CoreCompileInputs.cache
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.RazorAssemblyInfo.cache
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.RazorAssemblyInfo.cs
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\staticwebassets\MVCClient.StaticWebAssets.Manifest.cache
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\staticwebassets\MVCClient.StaticWebAssets.xml
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\scopedcss\bundle\MVCClient.styles.css
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.TagHelpers.input.cache
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.TagHelpers.output.cache
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.RazorCoreGenerate.cache
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.RazorTargetAssemblyInfo.cache
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.RazorTargetAssemblyInfo.cs
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.Views.pdb
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.pdb
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.genruntimeconfig.cache
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.csproj.CopyComplete
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.exe
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.deps.json
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.runtimeconfig.json
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.runtimeconfig.dev.json
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.pdb
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.Views.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.Views.pdb
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.csprojAssemblyReference.cache
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.AssemblyInfoInputs.cache
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.AssemblyInfo.cs
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.csproj.CoreCompileInputs.cache
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.MvcApplicationPartsAssemblyInfo.cache
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.RazorAssemblyInfo.cache
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.RazorAssemblyInfo.cs
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\staticwebassets\MVCClient.StaticWebAssets.Manifest.cache
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\staticwebassets\MVCClient.StaticWebAssets.xml
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\scopedcss\bundle\MVCClient.styles.css
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.TagHelpers.input.cache
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.TagHelpers.output.cache
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.RazorCoreGenerate.cache
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.RazorTargetAssemblyInfo.cache
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.RazorTargetAssemblyInfo.cs
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.Views.pdb
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.csproj.CopyComplete
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.pdb
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.genruntimeconfig.cache
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.exe
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.deps.json
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.runtimeconfig.json
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.pdb
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.Views.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\MVCClient.Views.pdb
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.MvcApplicationPartsAssemblyInfo.cache
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.RazorAssemblyInfo.cache
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.RazorAssemblyInfo.cs
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\staticwebassets\MVCClient.StaticWebAssets.Manifest.cache
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\staticwebassets\MVCClient.StaticWebAssets.xml
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\scopedcss\bundle\MVCClient.styles.css
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.TagHelpers.input.cache
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.TagHelpers.output.cache
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.RazorCoreGenerate.cache
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.RazorTargetAssemblyInfo.cache
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.RazorTargetAssemblyInfo.cs
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.Views.pdb
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.csproj.CopyComplete
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.pdb
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\MVCClient\obj\Debug\netcoreapp3.1\MVCClient.genruntimeconfig.cache

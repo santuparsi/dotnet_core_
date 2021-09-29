@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>Login</h1>
+<div class="container">
+	<form method="post">
+		<table class="table table-bordered">
+			<tr>
+				<td>Username</td>
+				<td>@Html.TextBox("Uname")</td>
+			</tr>
+			<tr>
+				<td>Password</td>
+				<td>@Html.TextBox("Pwd")</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<input type="submit" value="SignIn" />
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<span class="text-warning">@ViewData["errMsg"] </span>
+				</td>
+			</tr>
+		</table>
+	</form>
+</div>
+

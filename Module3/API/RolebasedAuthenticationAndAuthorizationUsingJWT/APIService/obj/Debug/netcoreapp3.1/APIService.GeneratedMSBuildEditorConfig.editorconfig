@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = APIService
+build_property.ProjectDir = D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\

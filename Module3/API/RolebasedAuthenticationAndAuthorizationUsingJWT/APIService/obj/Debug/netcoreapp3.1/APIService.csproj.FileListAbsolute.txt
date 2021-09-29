@@ -1,0 +1,232 @@
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\APIService.exe
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\APIService.deps.json
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\APIService.runtimeconfig.json
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\APIService.runtimeconfig.dev.json
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\APIService.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\APIService.pdb
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.AssemblyInfoInputs.cache
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.AssemblyInfo.cs
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.csproj.CoreCompileInputs.cache
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\staticwebassets\APIService.StaticWebAssets.Manifest.cache
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\staticwebassets\APIService.StaticWebAssets.xml
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\scopedcss\bundle\APIService.styles.css
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.RazorTargetAssemblyInfo.cache
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.csproj.CopyComplete
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.pdb
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.genruntimeconfig.cache
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SANTHOSH\source\repos\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.csprojAssemblyReference.cache
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\APIService.exe
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\APIService.deps.json
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\APIService.runtimeconfig.json
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\APIService.runtimeconfig.dev.json
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\APIService.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\APIService.pdb
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.AssemblyInfoInputs.cache
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.AssemblyInfo.cs
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.csproj.CoreCompileInputs.cache
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.MvcApplicationPartsAssemblyInfo.cache
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\staticwebassets\APIService.StaticWebAssets.Manifest.cache
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\staticwebassets\APIService.StaticWebAssets.xml
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\scopedcss\bundle\APIService.styles.css
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.RazorTargetAssemblyInfo.cache
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.csproj.CopyComplete
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.dll
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.pdb
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.genruntimeconfig.cache
+D:\Training(18.02.2021)\Module 3\Module-3\MVC-Core\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.csprojAssemblyReference.cache
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\APIService.exe
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\APIService.deps.json
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\APIService.runtimeconfig.json
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\APIService.runtimeconfig.dev.json
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\APIService.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\APIService.pdb
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.csproj.AssemblyReference.cache
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.AssemblyInfoInputs.cache
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.AssemblyInfo.cs
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.csproj.CoreCompileInputs.cache
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.MvcApplicationPartsAssemblyInfo.cache
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\staticwebassets\APIService.StaticWebAssets.Manifest.cache
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\staticwebassets\APIService.StaticWebAssets.xml
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\scopedcss\bundle\APIService.styles.css
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.RazorTargetAssemblyInfo.cache
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.csproj.CopyComplete
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.dll
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.pdb
+D:\Batch6(02.08.2021)\dotnet_core_\Module3\API\RolebasedAuthenticationAndAuthorizationUsingJWT\APIService\obj\Debug\netcoreapp3.1\APIService.genruntimeconfig.cache
